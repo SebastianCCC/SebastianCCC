@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am Sebastian Christopher, I'm the guy that gets excited over new tech
 
 ---
 
