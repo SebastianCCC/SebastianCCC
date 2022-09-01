@@ -2,7 +2,7 @@
 
 ---
 
-## 📈 Stats
+## Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SebastianCCC&theme=react&hide_border=true&background=DD272700)](https://git.io/streak-stats)
 
