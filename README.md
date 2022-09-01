@@ -1,4 +1,6 @@
-### I am Sebastian Christopher, I'm the guy that gets excited over new tech
+### Who am i?
+
+I am Sebastian Christopher 👋 I'm the guy that gets excited over new tech
 
 ---
 
