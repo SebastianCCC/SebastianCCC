@@ -9,9 +9,13 @@
 
 ---
 
-### Who am i?
+<h2 align="center">Who am i?</h2>
 
+<br>
+
+<p align="center">
 I am Sebastian Christopher 👋 I'm the guy that gets excited over new tech
+</p>
 
 ---
 
