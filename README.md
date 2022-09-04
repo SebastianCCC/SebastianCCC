@@ -2,8 +2,8 @@
 
 <p align="center">
   <samp>
-    <a href="https://www.seechris.dev">website</a> •
-    <a href="https://www.linkedin.com/in/sebastian-christopher-489364238/">linkedin</a>
+    <a href="https://www.seechris.dev">Portfolio</a> •
+    <a href="https://www.linkedin.com/in/sebastian-christopher-489364238/">Linkedin</a>
   </samp>
 </p>
 
