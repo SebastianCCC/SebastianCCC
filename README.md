@@ -1,3 +1,14 @@
+<h1 align="center">Hi there, I'm Sebastian 👋</h1>
+
+<p align="center">
+  <samp>
+    <a href="https://www.seechris.dev">website</a> •
+    <a href="https://www.linkedin.com/in/sebastian-christopher-489364238/">linkedin</a>
+  </samp>
+</p>
+
+---
+
 ### Who am i?
 
 I am Sebastian Christopher 👋 I'm the guy that gets excited over new tech
