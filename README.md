@@ -7,8 +7,6 @@
   </samp>
 </p>
 
----
-
 <h2 align="center">Who am i?</h2>
 
 <br>
