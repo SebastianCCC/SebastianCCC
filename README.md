@@ -19,7 +19,7 @@ I am Sebastian Christopher 👋 I'm the guy that gets excited over new tech
 
 ---
 
-## Stats
+<h2 align="center">Stats</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SebastianCCC&theme=react&hide_border=true&dates=6E6E6E&background=00000000)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianCCC&count_private=true&show_icons=true&theme=react&hide_border=true&text_color=6E6E6E&bg_color=00000000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianCCC&layout=compact&theme=react&hide_border=true&text_color=6E6E6E&bg_color=00000000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
