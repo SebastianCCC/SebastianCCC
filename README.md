@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://www.seechris.dev">portfolio</a> •
+    <a href="https://www.seechris.app">portfolio</a> •
     <a href="https://www.linkedin.com/in/sebastian-christopher-489364238/">linkedin</a>
   </samp>
 </p>
